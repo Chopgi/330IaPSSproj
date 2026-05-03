@@ -1,6 +1,14 @@
-## Getting Started
+## Project selection
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Interrupt and Process-State Simulation
+
+Create a lightweight simulation of processes moving among states such as new, ready, running, waiting, and terminated. 
+
+## Objectives to do: 
+Model several processes and their state changes over time. 
+Include at least one timer interrupt and one I/O completion interrupt. 
+Show how interrupts can cause preemption or wake a waiting process. 
+Provide a timeline or log and explain the sequence of events 
 
 ## Folder Structure
 
